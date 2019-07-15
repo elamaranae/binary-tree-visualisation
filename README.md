@@ -93,4 +93,4 @@ A program that visualises a binary tree in Command Line Interface
            the other
 
         2. Nulls are taken into account for non-existent nodes and space
-           is printed in place of edge and values
+           is printed in place of edges and values
