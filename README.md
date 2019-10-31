@@ -1,4 +1,4 @@
-# Binary-Tree-Visualisation-CLI
+# CLI-Binary-Tree-Visualisation
 A program that visualises a binary tree in Command Line Interface
 
 # Goal Representation
