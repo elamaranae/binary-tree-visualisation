@@ -1,7 +1,7 @@
 # Binary-Tree-Visualisation-CLI
 A program that visualises a binary tree in Command Line Interface
 
-# GOAL REPRESENTATION
+# Goal Representation
 
                   5                                 1 spaces (assume)
 
@@ -50,7 +50,7 @@ A program that visualises a binary tree in Command Line Interface
 
 
 
-# ALGORITHM
+# Algorithm
 
         queue nodes and edges initially empty
         push head into nodes
@@ -87,7 +87,7 @@ A program that visualises a binary tree in Command Line Interface
 
 
 
-# KEY POINTS
+# Key Points
 
         1. Values and edges are printed separately using two queue each feeding
            the other
