@@ -32,7 +32,7 @@ A program that visualises a binary tree in Command Line Interface
 
 
 
-# DISTANCES WITHIN VARIOUS COMPONENTS
+# Distances within various components
 
         (a) pow(2, height - level) - 2
 
