@@ -40,7 +40,7 @@ A program that visualises a binary tree in Command Line Interface
                         (or)
             pow(2, height - level + 1) - digits
 
-            where, digits is the no of digits of the previous node value to makeup for extra digits
+            where, digits is the no of digits of the previous node value to make up for extra digits
 
         (c)  pow(2, height - level - 1) - 1
 
